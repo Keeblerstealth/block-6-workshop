@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(4, 4, 4);  
+}
+h1 {
+    color: aqua;
+}
+h2 {
+    color: rgb(5, 158, 158);
+}
+h3 {
+    color: bisque;
+}
+
+
+
+
+ul {
+    border-color: rgb(146, 46, 46);
+    border-style: solid;
+    display: inline-block;
+}
+
+li {
+    color: rgb(3, 40, 40);
+}
+
+#freezer {
+
+}
+
+
+.box {
+    border: 20 px;
+    color: crimson;
+    padding: 10px;
+    background-color: bisque;
+
+}
